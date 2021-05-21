@@ -20,6 +20,7 @@
             </Label.FormattedText>
         </Label>
         <Button Text="click here"/>
+        <Button Text="Clear the screen"/>
     </StackLayout>
 
 </ContentPage>
